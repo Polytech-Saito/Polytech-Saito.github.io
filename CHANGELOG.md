@@ -6,7 +6,7 @@
 
 ## [Unreleased]
 
-### Added
+## Changed
 - cssをオレンジ色に変更
 ## [0.2.0] - 2026-11-17
 
