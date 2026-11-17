@@ -1,4 +1,4 @@
-## Changelog
+# Changelog
 
 このプロジェクトの主な変更履歴を記録します。
 
